@@ -1,0 +1,12 @@
+.metadata/
+Debug/
+.settings/
+Drivers/
+Startup/
+*.cproject
+*.project
+*.launch
+*.ioc
+*.mxproject
+*.ld
+* Debug.cfg
